@@ -1,8 +1,8 @@
-http://vps-selection.github.io/windows_vps_recommend.html
-http://vps-selection.github.io/free_vps_recommend.html
-http://vps-selection.github.io/change_ip_free_vps.html
-http://vps-selection.github.io/costeffective-vps-recommended.html
-http://vps-selection.github.io/VPS_network.html
-http://vps-selection.github.io/email_vps_recommendation.html
-http://vps-selection.github.io/vps_vds_difference.html
-http://vps-selection.github.io/vps_chosing.html
+https://vps-selection.github.io/windows_vps_recommend.html
+https://vps-selection.github.io/free_vps_recommend.html
+https://vps-selection.github.io/change_ip_free_vps.html
+https://vps-selection.github.io/costeffective-vps-recommended.html
+https://vps-selection.github.io/VPS_network.html
+https://vps-selection.github.io/email_vps_recommendation.html
+https://vps-selection.github.io/vps_vds_difference.html
+https://vps-selection.github.io/vps_chosing.html
