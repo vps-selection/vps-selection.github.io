@@ -1,0 +1,11 @@
+# Welcome to VPS 精选
+User-agent: *
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /lib/
+Disallow: /goto/
+
+Sitemap: https://vps-selection.github.io/sitemap.xml
