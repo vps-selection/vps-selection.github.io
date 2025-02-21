@@ -1,8 +1,8 @@
-http://example.com/windows_vps_recommend.html
-http://example.com/free_vps_recommend.html
-http://example.com/change_ip_free_vps.html
-http://example.com/costeffective-vps-recommended.html
-http://example.com/VPS_network.html
-http://example.com/email_vps_recommendation.html
-http://example.com/vps_vds_difference.html
-http://example.com/vps_chosing.html
+http://vps-selection.github.io/windows_vps_recommend.html
+http://vps-selection.github.io/free_vps_recommend.html
+http://vps-selection.github.io/change_ip_free_vps.html
+http://vps-selection.github.io/costeffective-vps-recommended.html
+http://vps-selection.github.io/VPS_network.html
+http://vps-selection.github.io/email_vps_recommendation.html
+http://vps-selection.github.io/vps_vds_difference.html
+http://vps-selection.github.io/vps_chosing.html
