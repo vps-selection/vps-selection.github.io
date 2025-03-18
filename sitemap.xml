@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vps-selection.github.io/server-manager/aapanel-install.html</loc>
+    
+    <lastmod>2025-03-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vps-selection.github.io/vps/Racknerd_vps_purchase_guide.html</loc>
+    
+    <lastmod>2025-03-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vps-selection.github.io/domain/domain-service-providers.html</loc>
     
     <lastmod>2025-03-06</lastmod>
@@ -121,7 +139,7 @@
 
   <url>
     <loc>https://vps-selection.github.io/</loc>
-    <lastmod>2025-03-07</lastmod>
+    <lastmod>2025-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

@@ -1,3 +1,5 @@
+https://vps-selection.github.io/server-manager/aapanel-install.html
+https://vps-selection.github.io/vps/Racknerd_vps_purchase_guide.html
 https://vps-selection.github.io/domain/domain-service-providers.html
 https://vps-selection.github.io/vps-providers-support-bitcoin.html
 https://vps-selection.github.io/costeffective-vps-recommended.html
@@ -6,5 +8,3 @@ https://vps-selection.github.io/hourly-billing-vps.html
 https://vps-selection.github.io/free_vps_recommend.html
 https://vps-selection.github.io/windows_vps_recommend.html
 https://vps-selection.github.io/VPS_network.html
-https://vps-selection.github.io/email_vps_recommendation.html
-https://vps-selection.github.io/vps_vds_difference.html
