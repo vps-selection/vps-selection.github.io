@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vps-selection.github.io/vpn-v2ray-trojan-ss-hysteria/proxy.html</loc>
+    
+    <lastmod>2026-08-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vps-selection.github.io/email_vps_recommendation.html</loc>
+    
+    <lastmod>2026-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vps-selection.github.io/vps-providers-support-bitcoin.html</loc>
+    
+    <lastmod>2026-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vps-selection.github.io/change_ip_free_vps.html</loc>
+    
+    <lastmod>2026-08-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vps-selection.github.io/vpn-v2ray-trojan-ss-hysteria/2025-free-v2ray-trojan-ss-hysteria2-node-subscriptions.html</loc>
     
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,24 +75,6 @@
   
   <url>
     <loc>https://vps-selection.github.io/domain/domain-service-providers.html</loc>
-    
-    <lastmod>2026-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://vps-selection.github.io/vps-providers-support-bitcoin.html</loc>
-    
-    <lastmod>2026-01-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://vps-selection.github.io/change_ip_free_vps.html</loc>
     
     <lastmod>2026-01-03</lastmod>
     
@@ -119,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://vps-selection.github.io/email_vps_recommendation.html</loc>
-    
-    <lastmod>2025-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://vps-selection.github.io/vps_vds_difference.html</loc>
     
     <lastmod>2025-02-20</lastmod>
@@ -157,7 +166,7 @@
 
   <url>
     <loc>https://vps-selection.github.io/</loc>
-    <lastmod>2026-08-02</lastmod>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
